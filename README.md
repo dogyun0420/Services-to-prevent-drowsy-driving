@@ -1,7 +1,9 @@
 # Services-to-prevent-drowsy-driving
 ## 대화형 생성 AI를 사용한 졸음 운전 예방을 위한 서비스
 ## 데모 영상 링크를 함께 첨부하겠습니다.
-https://youtu.be/LN_mjSWuNnQ
+### https://youtu.be/LN_mjSWuNnQ
+### https://github.com/user-attachments/assets/ff78bd8a-8236-4a94-8378-62c474cc39b6
+
 # 연구 결과
 <img width="960" alt="슬라이드1" src="https://github.com/user-attachments/assets/53d884ca-5fdb-4c21-b656-ff554379f1e0">
 <img width="960" alt="슬라이드2" src="https://github.com/user-attachments/assets/3eed4f8b-3bb5-4cdc-95a3-476babb44172">
